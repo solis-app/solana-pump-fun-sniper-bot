@@ -9,7 +9,9 @@ solana and pump fun sniper bot
 
 ---
 
-![logo](https://solisbot.app/logo.png)
+# Website
+
+[solisbot.app](https://solisbot.app/)
 
 # 📖 Introduction
 **We are pleased to announce that Solis is now ready to start beta, with the fastest speeds, most advanced filters and the cleanest user interface.**.<br>
