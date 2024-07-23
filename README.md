@@ -3,10 +3,10 @@ solana and pump fun sniper bot
 <div align="center">
     <h1>Solis Sniper Bot</h1>
 
-    <img src="https://solisbot.app/logo.png">
+    
 
 </div>
-
+![](https://solisbot.app/logo.png)
 ---
 
 
